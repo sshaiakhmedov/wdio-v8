@@ -43,3 +43,9 @@ Note: it runs in headed mode - so not sure
 2. create repository on GitHub, copy URL
 3. back to VSCode (IDE): `git remote add origin https://github.com/sshaiakhmedov/wdio-v8.git`
 4. git push, follow prompt and run `git push --set-upstream origin main`
+
+
+## git - upgrade node package.json modules
+If you currently have wdio v7 and want to upgdrade consider running thsoe commands in CLI:
+- `npm install -g npm-check-updates`
+- `ncu`
