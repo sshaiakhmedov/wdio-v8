@@ -6,11 +6,11 @@
 2. Create project folder in your Workspace i.e `myProjectName` and open that folder
 4. If not yet -  open your project in IDE:
 3. run `git init`
-4. run `npm init wdio` and follow prompts
+4. run `npm init wdio` and follow the prompts
 
-Notes: wdio v8 doesn't need Babel to use ES mode
+Notes: `wdio-v8` doesn't need `Babel` to use ES mode
 I used Mocha as test-runner
-He didn't suggested chromedriver as a service to select, not sure why
+Installation promt didn't suggested chromedriver as a service to select, not sure why.
 I selected test to be inlcuded in prompts
 
 ## Experience
